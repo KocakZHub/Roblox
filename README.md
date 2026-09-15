@@ -17,7 +17,11 @@ Launch scripts through the KocakZ loader.
 
 ## License
 
-Licensed under the [KocakZ Personal Use License](LICENSE). You may run the
+[`Utils/RemoteFilter.luau`](Utils/RemoteFilter.luau) is licensed under the MIT
+License, whose full text is included in its header.
+
+All other files are licensed under the [KocakZ Personal Use License](LICENSE)
+unless explicitly stated otherwise. You may run the
 official scripts for personal use and make copies needed to run them. Sharing
 copies, reuploading, modification, and resale are prohibited, subject to the
 exceptions in the license. Share the official website link instead.

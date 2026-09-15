@@ -5,6 +5,9 @@ Copyright (c) 2026 KocakZ. All rights reserved except as expressly granted below
 
 1. Scope and ownership
 
+Exception: Utils/RemoteFilter.luau is licensed under the MIT License included
+in that file's header and is excluded from this Personal Use License.
+
 This license applies to the KocakZ-owned scripts and associated materials
 provided with this license (the "Software"). KocakZ retains ownership of the
 Software. This is a proprietary license, not an open-source license.
