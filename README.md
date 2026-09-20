@@ -1,6 +1,6 @@
 # KocakZ Hub
 
-Roblox scripts for KocakZ Hub. Get your key and loader from [our website](https://kocakz.vercel.app/).
+Roblox scripts for KocakZ Hub. Get your key and loader from [our website](https://kocakz.me/).
 
 ## Game list
 
