@@ -4,10 +4,12 @@ Roblox scripts for KocakZ Hub. Get your key and loader from [our website](https:
 
 ## Game list
 
-| Game                   | Place ID         |
-| ---------------------- | ---------------- |
-| Grow A Chicken Fighter | `94640181989498` |
-| General utilities      | —                |
+| Game                   | Place ID          |
+| ---------------------- | ----------------- |
+| Ride A Pet             | `124216119978534` |
+| Karinderya             | `116497287371701` |
+| Grow A Chicken Fighter | `94640181989498`  |
+| General utilities      | —                 |
 
 Launch scripts through the KocakZ loader.
 
